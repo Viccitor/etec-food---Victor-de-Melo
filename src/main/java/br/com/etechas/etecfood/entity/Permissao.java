@@ -18,4 +18,5 @@ public class Permissao {
 
     @Column(name = "TX_AUTHORITY")
     private String authority;
+    //teste
 }
